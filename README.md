@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Boolean0-0
-- 👀 I’m interested in Web, game, and desktop development. Some mobile as well.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on a discord bot, website, or game
-- 📫 How to reach me: Discord -  Boolean#7588
+- 👀 I’m interested in machine learning, desktop application, game, and API development.
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on any machine learning projects, specifically deep learning.
+- 📫 How to reach me: NULL
